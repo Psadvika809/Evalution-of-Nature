@@ -4,8 +4,8 @@
 <style>
 *{margin:0;padding:0}
 body{background-color:white;color:black}
-.sad img{width:512px;height:388px}
-.dat img{width:512px;height:388px}
+.sad img{width:523px;height:403px}
+.dat img{width:523px;height:403px}
 .sad{background-color:yellow;width:100%;height:388px}
 .lav{position:absolute;top:10%;width:512px;text-align:center}
 .sam{position:absolute;top:16%;width:512px;text-align:center}
@@ -17,32 +17,32 @@ body{background-color:white;color:black}
 </head>
 <body>
 <div class="sad">
-<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:512px;height:388px;padding-left:0px">
+<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:506px;height:388px;padding-left:0px">
 <img src="image18.jpg">
 <div class="lav">
 <h1><font face="minnie regular" size="6" color="black">The health effects of air<br>pollution imperil<br>human lives. This fact<br>is well-documented.</font></h1>
 </div>
 </div>
-<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:512px;height:388px;padding-left:0px">
+<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:506px;height:388px;padding-left:0px">
 <img src="image5.jpeg">
 <div class="sam">
 <h1><font face="minnie regular" size="6" color="brown">"Thousands have lived without love,<br>not one without water."</font></h1>
 </div>
 </div>
-<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:512px;height:388px;padding-left:0px">
+<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:506px;height:388px;padding-left:0px">
 <img src="image26.jpg">
 <div class="sun">
 <h1><font face="Rumachine Script" size="6" color="red">We never know<br>the worth of water<br>till the well is dry.</font></h1>
 </div>
 </div>
 <div class="dat">
-<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:512px;height:388px;padding-left:0px">
+<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:506px;height:388px;padding-left:0px">
 <img src="image28.jpg">
 <div class="tan"><h1><font color="yellow">When the well is dry,<br>we will know the worth of water</font></h1></div></div>
-<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:512px;height:388px;padding-left:0px">
+<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:506px;height:388px;padding-left:0px">
 <img src="image29.jpg">
 <div class="tun"><h1><font face="minne regular" size="6" color="black">Noise pollution<br>is an easy method <br>to be deaf</font></h1></div></div>
-<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:512px;height:388px;padding-left:0px">
+<div style="background-color:black;float:left;margin-left:0px;margin-right:0px;width:506px;height:388px;padding-left:0px">
 <img src="image27.jpg">
 <div class="ten"><h1><font face="minnie regular" size="6" color="black">Plastic is a most destructive<br>weapon than a nuclear bomb<br>or an atom bomb, its impact<br>shall remain for centuries on<br>the future generation</font></h1></div></div>
 </div>

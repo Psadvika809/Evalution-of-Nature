@@ -1,0 +1,24 @@
+<html>
+<style>
+body{
+background-image:url('image10.jpg');
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-size:100% 100%;
+}
+</style>
+<body>
+<h1 align="center"><font face="cambria" size="6">BEAUTY OF NATURE</font></h1>
+<h2 align="center"><font face="kunstler script" size="7" color="blue">"Adopt the pace of nature.Her secret is patience."</font></h2>
+<br>
+<br>
+<h3 align="left">&nbsp;&nbsp;&nbsp<font face="cambria" size="3" color="white">Look deep into nature,<br>&nbsp;&nbsp;&nbspand then you will understand <br>&nbsp;&nbsp;&nbspevery thing better</font></h3>
+<br>
+<br>
+<h3 align="center"><font face="cambria" size="3" color="white">Nature is painting for us,<br>day after day,<br>pictures of infinite beauty</font><h3>
+<br>
+<br>
+<h3 align="right"><font face="cambria" size="3" color="white">Nature has a great simplicity<br>and therefore a great beauty</font></h3>
+<br>
+</body>
+</html>
